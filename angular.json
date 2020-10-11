@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "HttpClient"
+    }
+  },
+  "defaultProject": "HttpClient",
+  "cli": {
+    "analytics": false
+  }
 }
